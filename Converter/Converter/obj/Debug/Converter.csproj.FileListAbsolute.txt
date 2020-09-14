@@ -1,0 +1,10 @@
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\bin\Debug\MeasurementConverter.exe.config
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\bin\Debug\MeasurementConverter.exe
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\bin\Debug\MeasurementConverter.pdb
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\obj\Debug\MeasurementConverter.csprojAssemblyReference.cache
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\obj\Debug\MeasurementConverter.Properties.Resources.resources
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\obj\Debug\MeasurementConverter.csproj.GenerateResource.cache
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\obj\Debug\MeasurementConverter.csproj.CoreCompileInputs.cache
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\obj\Debug\MeasurementConverter.exe
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\obj\Debug\MeasurementConverter.pdb
+C:\Users\Simons\source\repos\MeasurementConverter\MeasurementConverter\obj\Debug\MeasurementConverter.MeasurementConverter.resources
